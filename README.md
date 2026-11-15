@@ -1,2 +1,1 @@
-
-https://github.com/CheatSolutions/Spartan-AntiCheat-Documentation/tree/main/documentation
+Moved to https://github.com/Vagdedes/Spartan-AntiCheat-Rewritten
